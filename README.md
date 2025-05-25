@@ -1,4 +1,8 @@
-
+Ссылки на посылки
+https://dsahse.contest.codeforces.com/group/NOflOR1Qt0/contest/608956/submission/321217180
+https://dsahse.contest.codeforces.com/group/NOflOR1Qt0/contest/608956/submission/321219250
+https://dsahse.contest.codeforces.com/group/NOflOR1Qt0/contest/608956/submission/321219424
+https://dsahse.contest.codeforces.com/group/NOflOR1Qt0/contest/608956/submission/321219517
 ---
 
 ## Что вообще делал
